@@ -14,7 +14,7 @@ import { AngularFireModule } from 'angularfire2';
 import { AngularFireDatabaseModule } from 'angularfire2/database';
 import { AngularFireAuthModule } from 'angularfire2/auth';
 export  var firebaseConf = {
-  apiKey: "",
+  apiKey: " ",
   authDomain: "votacionconsorcio.firebaseapp.com",
   databaseURL: "https://votacionconsorcio.firebaseio.com",
   projectId: "votacionconsorcio",
