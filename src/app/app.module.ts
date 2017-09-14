@@ -14,12 +14,12 @@ import { AngularFireModule } from 'angularfire2';
 import { AngularFireDatabaseModule } from 'angularfire2/database';
 import { AngularFireAuthModule } from 'angularfire2/auth';
 export  var firebaseConf = {
-  apiKey: " ",
-  authDomain: "conversandoenelaula.firebaseapp.com",
-  databaseURL: "https://conversandoenelaula.firebaseio.com",
-  projectId: "conversandoenelaula",
-  storageBucket: "",
-  messagingSenderId: "920296734660"
+  apiKey: "",
+  authDomain: "votacionconsorcio.firebaseapp.com",
+  databaseURL: "https://votacionconsorcio.firebaseio.com",
+  projectId: "votacionconsorcio",
+  storageBucket: "votacionconsorcio.appspot.com",
+  messagingSenderId: "427721982769"
 };
 @NgModule({
   declarations: [
